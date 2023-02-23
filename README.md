@@ -8,5 +8,10 @@ Installation
 2. ./setup.sh **or** ./setup.sh already-bin
 
 
+PAH help
+============
+1) ./bin/pah [help, h]
+2) python3 pah.py [help, h]
+
 
 
