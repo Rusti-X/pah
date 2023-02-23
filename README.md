@@ -10,8 +10,7 @@ Installation
 
 PAH help
 ============
-1) ./bin/pah [help, h]
-2) python3 pah.py [help, h]
+./bin/pah [help, h] **or** python3 pah.py [help, h]
 
 
 
