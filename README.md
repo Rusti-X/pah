@@ -1,5 +1,5 @@
 # PAH: Python AUR Helper
-*Helper for arch user repository by wrote in python*
+*The most minimalistic helper for arch user repository by wrote in python*
 
 
 Installation
