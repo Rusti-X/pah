@@ -5,12 +5,13 @@
 Installation
 =============
 1. chmod +x setup.sh
-2. ./setup.sh **or** ./setup.sh already-bin
+2. ./setup.sh
 
 
 PAH help
 ============
-./bin/pah [help, h] **or** python3 pah.py [help, h]
+*before installation:* python3 pah.py [help, h]
+*after installation:* pah [help, h]
 
 
 
