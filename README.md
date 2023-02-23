@@ -1,12 +1,16 @@
 # Python AUR Helper
 
 
-pah: python aur helper
-
+PAH: Python AUR Helper
+=============
 Helper for arch user repository by wrote in python
 
 
-Installation:
-    chmod +x setup.sh
-    ./setup.sh |or| ./setup.sh already-bin
+Installation
+=============
+1. chmod +x setup.sh
+2. ./setup.sh *or* ./setup.sh already-bin
+
+
+
 
