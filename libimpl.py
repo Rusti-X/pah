@@ -73,29 +73,8 @@ def chdir_to_config():
     return os.chdir(pah_directory)
 
 
-# def change_pkgs_list(to_write, type_of_changing: str):
-#     chdir_to_config()
-#     with open(f'{pah_directory}/pkgs.list', type_of_changing) as f:
-#         if f'{to_write}' not in get_pkgs_list():
-#             f.write(f'{to_write}')
-#             f.write('\n')
-
-
 def remove_pkgs_list():
     os.remove(f'{pah_directory}/pkgs.list')
-
-
-# def get_pkgs_list() -> list | None:
-#     if confdir_exist():
-#         pkgs = None
-#         try:
-#             with open(f'{pah_directory}/pkgs.list', 'r') as f:
-#                 pkgs = f.read().split('\n')
-#                 del pkgs[-1]
-#         except FileNotFoundError:
-#             with open(f'{pah_directory}/pkgs.list', 'w') as f:
-#                 pkgs = []
-#         return pkgs
 
 
 def args_error():
