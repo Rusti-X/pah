@@ -20,9 +20,9 @@ LICENSE
   
 *license: unknown (X)*  
   
-*You are granted free permission to work with the Software without restrictions, including not  *
-*limited to, the rights to use, copy, modify, merge, publish, distribute.  *
-*You may not, however, sell copies of this software.  *
+*You are granted free permission to work with the Software without restrictions, including not*  
+*limited to, the rights to use, copy, modify, merge, publish, distribute.*  
+*You may not, however, sell copies of this software.*  
 
 
 
