@@ -9,9 +9,11 @@ from shutil import rmtree
 
 license: XOSL - X Open Source License ('unknown')
 
-You are granted free permission to work with the Software without restrictions, including not 
+You are granted free permission to work with the Software without restrictions, including not  
 limited to, the rights to use, copy, modify, merge, publish, distribute.
-All your developments using this software must also be open source and in the public domain.
+Changed files should be marked.
+The right to apply another license is NOT granted.
+All your developments using this software must also be open source and in the public domain.  
 You may not, however, sell copies of this software.
 """
 
