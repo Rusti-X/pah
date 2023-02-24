@@ -3,6 +3,18 @@ import subprocess
 from rich import print as cprint
 from shutil import rmtree
 
+
+"""
+@Copyright 2023 MRX
+
+license: 'unknown' (X)
+
+You are granted free permission to work with the Software without restrictions, including, but not 
+limited to, the rights to use, copy, modify, merge. publish, distribute.
+You may not, however, sell copies of this software.
+"""
+
+
 user_login = os.getlogin()
 
 pah_directory = f'/home/{user_login}/.pah'

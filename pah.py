@@ -4,6 +4,21 @@ import rich
 import libimpl
 
 
+"""
+@Copyright 2023 MRX
+
+license: 'unknown' (X)
+
+You are granted free permission to work with the Software without restrictions, including, but not
+limited to, the rights to use, copy, modify, merge. publish, distribute.
+You may not, however, sell copies of this software.
+"""
+
+
+PAH_VERSION = ['release', 1, 0]
+PAH_LICENSE = 'X'
+
+
 AUR_URL = 'https://aur.archlinux.org/'
 
 
