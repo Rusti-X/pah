@@ -10,7 +10,7 @@ Installation
 
 PAH help
 ============
-*before installation:* python3 pah.py [help, h]
+*before installation:* python3 pah.py [help, h]  
 *after installation:* pah [help, h]
 
 
