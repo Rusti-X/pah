@@ -3,8 +3,11 @@
 import subprocess
 from sys import argv
 import rich
-import libimpl
+import sys
 
+sys.path.insert(0, "/usr/local/lib/pah")
+
+import libimpl
 
 """
 @Copyright 2023 MRX
