@@ -1,5 +1,7 @@
 #!/bin/sh
 
-sudo cp pah.py /usr/local/bin/
-sudo cp libimpl.py /usr/local/lib
+
+cp pah.py /usr/local/bin/
+mkdir /usr/lib/pah
+cp libimpl.py /usr/local/lib/pah
 
