@@ -1,7 +1,7 @@
 #!/bin/sh
 
-
-cp pah.py /usr/local/bin/
+chmod +x pah.py
+cp pah.py /usr/local/bin/pah
 mkdir /usr/lib/pah
 cp libimpl.py /usr/local/lib/pah
 
